@@ -52,3 +52,5 @@ README.md
 -[Илья Иванников](https://github.com/ADXTV)
 
 -[Артем Курлыкин](https://github.com/Skalizd)
+
+-[Никитосик Балицкий](https://github.com/11VavILonE11)
